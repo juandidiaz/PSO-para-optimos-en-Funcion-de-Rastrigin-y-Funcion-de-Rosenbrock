@@ -58,4 +58,4 @@ A continuación se muestran las animaciones del movimiento de las partículas en
 Para ejecutar las simulaciones, simplemente ejecuta el script de Python principal, que generará animaciones de la evolución de las partículas en el espacio de búsqueda para ambas funciones y configuraciones de PSO.
 
 ```bash
-python nombre_del_script.py
+python main.py
